@@ -1,3 +1,6 @@
+// Robo criado ultilizando a blibioteca puppeteer junto com nodejs
+// Finalidade de acessar alguma pagina web e recuperar dados(web scraping)
+
 const puppeteer = require('puppeteer');
 const readlineSync = require('readline-sync'); // Blibioteca para console realizar perguntas
 
